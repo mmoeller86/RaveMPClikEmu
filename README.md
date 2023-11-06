@@ -1,2 +1,2 @@
 # RaveMPEmu
-An Emulator for the rave:mp MP3 Player
+An Emulator for the rave:mp Clik! MP3 Player
